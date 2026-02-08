@@ -11,11 +11,11 @@ One project I developed was the automation of recurring reports and workflows us
 strategies. Skilled at translating data into effective solutions and making data-driven decisions.
 
 🚀 Projects
+
 📈 ACH Return Rate Control 🔗 [See project](link)
+
 
 📬 Contact
 LinkedIn: https://linkedin.com/in/aarón-calderón-sánchez
-
 GitHub: https://github.com/aaron-calderon
-
 Email: aaron_casa@hotmail.com
