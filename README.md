@@ -16,6 +16,6 @@ strategies. Skilled at translating data into effective solutions and making data
 
 
 📬 Contact
-LinkedIn: https://linkedin.com/in/aarón-calderón-sánchez
-GitHub: https://github.com/aaron-calderon
-Email: aaron_casa@hotmail.com
+- LinkedIn: https://linkedin.com/in/aarón-calderón-sánchez
+- GitHub: https://github.com/aaron-calderon
+- Email: aaron_casa@hotmail.com
