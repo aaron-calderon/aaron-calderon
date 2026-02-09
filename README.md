@@ -10,11 +10,6 @@ One project I developed was the automation of recurring reports and workflows us
  🎓 I’m currently learning Data Science in a Bootcamp (machine learning, statistical analysis, and big data management). Experienced in building predictive models using Python, Seaborn, pandas, and SQL, with a proven track record of optimizing business
 strategies. Skilled at translating data into effective solutions and making data-driven decisions.
 
-🚀 Projects
-
-📈 ACH Return Rate Control 🔗 [See project](link)
-
-
 📬 Contact
 - LinkedIn: https://linkedin.com/in/aarón-calderón-sánchez
 - GitHub: https://github.com/aaron-calderon
